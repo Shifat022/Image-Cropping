@@ -41,7 +41,7 @@ def crop_images_by_bboxes(image_paths, bounding_boxes):
 
 
 # Example usage
-image_paths = ['F:\shifat.png', 'F:\shi.png']
+image_paths = ['F:\ images1.png', 'F:\ images2.png']
 bounding_boxes = [
     (813, 133, 1279, 697),  # Bounding box for image1.jpg
     (812, 126, 1278, 690)   # Bounding box for image2.png
